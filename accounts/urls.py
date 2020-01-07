@@ -11,3 +11,5 @@ urlpatterns = [
     path('loginPage/',views.loginPage,name='loginPage'),
     path('registerPage/',views.registerPage,name='registerPage'),
 '''
+
+# hello bc
